@@ -10,7 +10,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 1 teaspoon baking soda
 - 1/2 teaspoon salt
 - 3 large eggs
-- 1 cup milk
+- 1 cup whole milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
@@ -28,6 +28,8 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 2 teaspoons vanilla extract
 - 1/2 cup unsweetened cocoa powder
 - 2 tablespoons milk
+- 2 tablespoons heavy cream
+- Pinch of salt
 
 ## Decoration
 
@@ -36,13 +38,13 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 ## Instructions
 
-1. Preheat the oven to 350°F (175°C). Grease three 8-inch round cake pans.
+1. Preheat the oven to 350°F (175°C). Grease and flour three 8-inch round cake pans.
 
 2. In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.
 
-3. Add the eggs, milk, vegetable oil, and vanilla. Mix until the batter is smooth.
+3. Add the eggs, milk, vegetable oil, and vanilla. Mix until the batter is smooth and well combined.
 
-4. Add the cocoa powder and dark chocolate chips. Mix until evenly combined.
+4. Add [CAKE FLAVOUR] and [SPECIAL CAKE INGREDIENT]. Mix until evenly combined.
 
 5. Divide the batter evenly among the three prepared pans.
 
@@ -52,7 +54,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 8. Prepare the filling by combining the raspberry preserves with the fresh raspberries.
 
-9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the cocoa powder.
+9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the heavy cream.
 
 10. Place the first cake layer on a serving plate and spread half of the filling over the top.
 
